@@ -4,9 +4,9 @@
 
 <h1>Welcome</h1>
 <?php
-echo "Hello world";
+echo ("<h1 style='color:red'>Hello world</h1>");
 
-echo "Cambio 2";
+echo ("<h2 style='color:orange'>Cambio 2</h2>");
 ?>
 
 </body>
